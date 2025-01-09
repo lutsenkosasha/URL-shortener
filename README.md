@@ -98,19 +98,16 @@
     Если алиас уже существует, вернется ошибка.
 
 ### 2. **Переадресация по короткой ссылке (GET):**
-    ```bash
     GET http://localhost:3000/{shortUrl}
-    ```
+
 
 ### 3. **Удаление короткой ссылки (DELETE):**
-    ```bash
     DELETE http://localhost:3000/delete/{shortUrl}
-    ```
+
 
 ### 4. **Получение информации о ссылке (GET):**
-    ```bash
     GET http://localhost:3000/info/{shortUrl}
-    ```
+
 
 ### 5. **Получение аналитики (GET):**
     GET http://localhost:3000/analytics/{shortUrl}
