@@ -35,8 +35,8 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/your-username/url-shortener.git
-    cd url-shortener
+    https://github.com/lutsenkosasha/URL-shortener.git
+    cd URL-shortener
     ```
 
 2. Установите зависимости:
